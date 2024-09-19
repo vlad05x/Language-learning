@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Language-learning/static/css/main.cad0bc5d.css",
+    "main.js": "/Language-learning/static/js/main.5b81afa1.js",
+    "index.html": "/Language-learning/index.html",
+    "main.cad0bc5d.css.map": "/Language-learning/static/css/main.cad0bc5d.css.map",
+    "main.5b81afa1.js.map": "/Language-learning/static/js/main.5b81afa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad0bc5d.css",
+    "static/js/main.5b81afa1.js"
+  ]
+}
